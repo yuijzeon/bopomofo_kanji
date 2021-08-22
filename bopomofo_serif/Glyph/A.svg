@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg4289"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="A.svg">
+  <defs
+     id="defs4291" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="82.857143"
+     inkscape:cy="616.94534"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,200"
+       orientation="0,1"
+       id="guide4889"
+       inkscape:label="Baseline"
+       inkscape:color="rgb(0,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4150" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4294">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.36222)">
+    <path
+       sodipodi:nodetypes="cscccccsccsccczc"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:445.64938354px;line-height:125%;font-family:'Source Han Serif KR';-inkscape-font-specification:'Source Han Serif KR Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 456.07481,428.96263 0,254.32175 c 0,53.1437 6.01781,189.51303 16.04492,226.61333 l 77.20704,0 c 29.07863,-64.1735 46.12501,-183.49643 46.12501,-265.71873 l 0,-191.39875 0,-39.98 c 56.32382,-41.5897 192.83999,-199.30665 248.92209,-279.08905 7.37271,-10.4885 23.50778,-26.30751 14.18221,-46.915207 -4.02445,-36.7829 -43.31767,-61.4439 -87.77575,-98.22679 -18.43246,-22.3088 -63.00709,-31.2314 -72.72392,-11.3749 -8.59734,17.5687997 6.57288,65.21779 5.37525,90.81279 C 667.88165,127.40368 541.84126,272.42033 501.24229,326.93743 439.53789,227.65853 287.24938,88.184853 237.45246,45.381653 97.727208,22.625933 139.19387,144.44905 165.20112,177.20014 c 26.00725,32.75109 290.87369,251.76249 290.87369,251.76249 z"
+       id="path10866"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

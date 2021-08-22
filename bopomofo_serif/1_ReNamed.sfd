@@ -1,0 +1,7574 @@
+SplineFontDB: 3.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2018, U-DESKTOP-N0Q58JP\\JZWEON,S-1-5-21-1504166765-30349
+UComments: "2018-7-13: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMxmbwAA" 1
+Layer: 1 0 "+Uk1mbwAA" 0
+XUID: [1021 75 -358646372 2984458]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1531458733
+ModificationTime: 1531458733
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: Custom
+UnicodeInterp: none
+NameList: Untitled2
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 825 25 10
+OnlyBitmaps: 1
+BeginChars: 1075 1075
+
+StartChar: b
+Encoding: 0 -1 0
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: p
+Encoding: 1 -1 1
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: m
+Encoding: 2 -1 2
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: f
+Encoding: 3 -1 3
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: d
+Encoding: 4 -1 4
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: t
+Encoding: 5 -1 5
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: n
+Encoding: 6 -1 6
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: l
+Encoding: 7 -1 7
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: g
+Encoding: 8 -1 8
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: k
+Encoding: 9 -1 9
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: h
+Encoding: 10 -1 10
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: j
+Encoding: 11 -1 11
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ch
+Encoding: 12 -1 12
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sh
+Encoding: 13 -1 13
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: j
+Encoding: 14 -1 14
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ch
+Encoding: 15 -1 15
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sh
+Encoding: 16 -1 16
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zh
+Encoding: 17 -1 17
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dz
+Encoding: 18 -1 18
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ts
+Encoding: 19 -1 19
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: s
+Encoding: 20 -1 20
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: a
+Encoding: 21 -1 21
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ba
+Encoding: 22 -1 22
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pa
+Encoding: 23 -1 23
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ma
+Encoding: 24 -1 24
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fa
+Encoding: 25 -1 25
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: da
+Encoding: 26 -1 26
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ta
+Encoding: 27 -1 27
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: na
+Encoding: 28 -1 28
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: la
+Encoding: 29 -1 29
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ga
+Encoding: 30 -1 30
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ka
+Encoding: 31 -1 31
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ha
+Encoding: 32 -1 32
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ja
+Encoding: 33 -1 33
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: cha
+Encoding: 34 -1 34
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sha
+Encoding: 35 -1 35
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zha
+Encoding: 36 -1 36
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dza
+Encoding: 37 -1 37
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsa
+Encoding: 38 -1 38
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sa
+Encoding: 39 -1 39
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: o
+Encoding: 40 -1 40
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bo
+Encoding: 41 -1 41
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: po
+Encoding: 42 -1 42
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mo
+Encoding: 43 -1 43
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fo
+Encoding: 44 -1 44
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: do
+Encoding: 45 -1 45
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: to
+Encoding: 46 -1 46
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: no
+Encoding: 47 -1 47
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lo
+Encoding: 48 -1 48
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: go
+Encoding: 49 -1 49
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ko
+Encoding: 50 -1 50
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ho
+Encoding: 51 -1 51
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jo
+Encoding: 52 -1 52
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: cho
+Encoding: 53 -1 53
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sho
+Encoding: 54 -1 54
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zho
+Encoding: 55 -1 55
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzo
+Encoding: 56 -1 56
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tso
+Encoding: 57 -1 57
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: so
+Encoding: 58 -1 58
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: eo
+Encoding: 59 -1 59
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: beo
+Encoding: 60 -1 60
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: peo
+Encoding: 61 -1 61
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: meo
+Encoding: 62 -1 62
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: feo
+Encoding: 63 -1 63
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: deo
+Encoding: 64 -1 64
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: teo
+Encoding: 65 -1 65
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: neo
+Encoding: 66 -1 66
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: leo
+Encoding: 67 -1 67
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: geo
+Encoding: 68 -1 68
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: keo
+Encoding: 69 -1 69
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: heo
+Encoding: 70 -1 70
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jeo
+Encoding: 71 -1 71
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: cheo
+Encoding: 72 -1 72
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sheo
+Encoding: 73 -1 73
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zheo
+Encoding: 74 -1 74
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzeo
+Encoding: 75 -1 75
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tseo
+Encoding: 76 -1 76
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: seo
+Encoding: 77 -1 77
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: e
+Encoding: 78 -1 78
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: be
+Encoding: 79 -1 79
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pe
+Encoding: 80 -1 80
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: me
+Encoding: 81 -1 81
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fe
+Encoding: 82 -1 82
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: de
+Encoding: 83 -1 83
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: te
+Encoding: 84 -1 84
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ne
+Encoding: 85 -1 85
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: le
+Encoding: 86 -1 86
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ge
+Encoding: 87 -1 87
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ke
+Encoding: 88 -1 88
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: he
+Encoding: 89 -1 89
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: je
+Encoding: 90 -1 90
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: che
+Encoding: 91 -1 91
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: she
+Encoding: 92 -1 92
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhe
+Encoding: 93 -1 93
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dze
+Encoding: 94 -1 94
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tse
+Encoding: 95 -1 95
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: se
+Encoding: 96 -1 96
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ai
+Encoding: 97 -1 97
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bai
+Encoding: 98 -1 98
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pai
+Encoding: 99 -1 99
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mai
+Encoding: 100 -1 100
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fai
+Encoding: 101 -1 101
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dai
+Encoding: 102 -1 102
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tai
+Encoding: 103 -1 103
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nai
+Encoding: 104 -1 104
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lai
+Encoding: 105 -1 105
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gai
+Encoding: 106 -1 106
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kai
+Encoding: 107 -1 107
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hai
+Encoding: 108 -1 108
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jai
+Encoding: 109 -1 109
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chai
+Encoding: 110 -1 110
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shai
+Encoding: 111 -1 111
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhai
+Encoding: 112 -1 112
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzai
+Encoding: 113 -1 113
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsai
+Encoding: 114 -1 114
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sai
+Encoding: 115 -1 115
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ei
+Encoding: 116 -1 116
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bei
+Encoding: 117 -1 117
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pei
+Encoding: 118 -1 118
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mei
+Encoding: 119 -1 119
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fei
+Encoding: 120 -1 120
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dei
+Encoding: 121 -1 121
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tei
+Encoding: 122 -1 122
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nei
+Encoding: 123 -1 123
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lei
+Encoding: 124 -1 124
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gei
+Encoding: 125 -1 125
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kei
+Encoding: 126 -1 126
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hei
+Encoding: 127 -1 127
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jei
+Encoding: 128 -1 128
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chei
+Encoding: 129 -1 129
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shei
+Encoding: 130 -1 130
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhei
+Encoding: 131 -1 131
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzei
+Encoding: 132 -1 132
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsei
+Encoding: 133 -1 133
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sei
+Encoding: 134 -1 134
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: au
+Encoding: 135 -1 135
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bau
+Encoding: 136 -1 136
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pau
+Encoding: 137 -1 137
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mau
+Encoding: 138 -1 138
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fau
+Encoding: 139 -1 139
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dau
+Encoding: 140 -1 140
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tau
+Encoding: 141 -1 141
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nau
+Encoding: 142 -1 142
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lau
+Encoding: 143 -1 143
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gau
+Encoding: 144 -1 144
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kau
+Encoding: 145 -1 145
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hau
+Encoding: 146 -1 146
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jau
+Encoding: 147 -1 147
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chau
+Encoding: 148 -1 148
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shau
+Encoding: 149 -1 149
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhau
+Encoding: 150 -1 150
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzau
+Encoding: 151 -1 151
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsau
+Encoding: 152 -1 152
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sau
+Encoding: 153 -1 153
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ou
+Encoding: 154 -1 154
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bou
+Encoding: 155 -1 155
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pou
+Encoding: 156 -1 156
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mou
+Encoding: 157 -1 157
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fou
+Encoding: 158 -1 158
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dou
+Encoding: 159 -1 159
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tou
+Encoding: 160 -1 160
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nou
+Encoding: 161 -1 161
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lou
+Encoding: 162 -1 162
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gou
+Encoding: 163 -1 163
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kou
+Encoding: 164 -1 164
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hou
+Encoding: 165 -1 165
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jou
+Encoding: 166 -1 166
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chou
+Encoding: 167 -1 167
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shou
+Encoding: 168 -1 168
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhou
+Encoding: 169 -1 169
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzou
+Encoding: 170 -1 170
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsou
+Encoding: 171 -1 171
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sou
+Encoding: 172 -1 172
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: an
+Encoding: 173 -1 173
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ban
+Encoding: 174 -1 174
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pan
+Encoding: 175 -1 175
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: man
+Encoding: 176 -1 176
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fan
+Encoding: 177 -1 177
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dan
+Encoding: 178 -1 178
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tan
+Encoding: 179 -1 179
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nan
+Encoding: 180 -1 180
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lan
+Encoding: 181 -1 181
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gan
+Encoding: 182 -1 182
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kan
+Encoding: 183 -1 183
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: han
+Encoding: 184 -1 184
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jan
+Encoding: 185 -1 185
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chan
+Encoding: 186 -1 186
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shan
+Encoding: 187 -1 187
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhan
+Encoding: 188 -1 188
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzan
+Encoding: 189 -1 189
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsan
+Encoding: 190 -1 190
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: san
+Encoding: 191 -1 191
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: eon
+Encoding: 192 -1 192
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: beon
+Encoding: 193 -1 193
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: peon
+Encoding: 194 -1 194
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: meon
+Encoding: 195 -1 195
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: feon
+Encoding: 196 -1 196
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: deon
+Encoding: 197 -1 197
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: teon
+Encoding: 198 -1 198
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: neon
+Encoding: 199 -1 199
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: leon
+Encoding: 200 -1 200
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: geon
+Encoding: 201 -1 201
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: keon
+Encoding: 202 -1 202
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: heon
+Encoding: 203 -1 203
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jeon
+Encoding: 204 -1 204
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: cheon
+Encoding: 205 -1 205
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sheon
+Encoding: 206 -1 206
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zheon
+Encoding: 207 -1 207
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzeon
+Encoding: 208 -1 208
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tseon
+Encoding: 209 -1 209
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: seon
+Encoding: 210 -1 210
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ang
+Encoding: 211 -1 211
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bang
+Encoding: 212 -1 212
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pang
+Encoding: 213 -1 213
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mang
+Encoding: 214 -1 214
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fang
+Encoding: 215 -1 215
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dang
+Encoding: 216 -1 216
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tang
+Encoding: 217 -1 217
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nang
+Encoding: 218 -1 218
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lang
+Encoding: 219 -1 219
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gang
+Encoding: 220 -1 220
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kang
+Encoding: 221 -1 221
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hang
+Encoding: 222 -1 222
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jang
+Encoding: 223 -1 223
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chang
+Encoding: 224 -1 224
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shang
+Encoding: 225 -1 225
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhang
+Encoding: 226 -1 226
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzang
+Encoding: 227 -1 227
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsang
+Encoding: 228 -1 228
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sang
+Encoding: 229 -1 229
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: eong
+Encoding: 230 -1 230
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: beong
+Encoding: 231 -1 231
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: peong
+Encoding: 232 -1 232
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: meong
+Encoding: 233 -1 233
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: feong
+Encoding: 234 -1 234
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: deong
+Encoding: 235 -1 235
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: teong
+Encoding: 236 -1 236
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: neong
+Encoding: 237 -1 237
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: leong
+Encoding: 238 -1 238
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: geong
+Encoding: 239 -1 239
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: keong
+Encoding: 240 -1 240
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: heong
+Encoding: 241 -1 241
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jeong
+Encoding: 242 -1 242
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: cheong
+Encoding: 243 -1 243
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sheong
+Encoding: 244 -1 244
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zheong
+Encoding: 245 -1 245
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzeong
+Encoding: 246 -1 246
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tseong
+Encoding: 247 -1 247
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: seong
+Encoding: 248 -1 248
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ar
+Encoding: 249 -1 249
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bar
+Encoding: 250 -1 250
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: par
+Encoding: 251 -1 251
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mar
+Encoding: 252 -1 252
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: far
+Encoding: 253 -1 253
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dar
+Encoding: 254 -1 254
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tar
+Encoding: 255 -1 255
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nar
+Encoding: 256 -1 256
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lar
+Encoding: 257 -1 257
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gar
+Encoding: 258 -1 258
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kar
+Encoding: 259 -1 259
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: har
+Encoding: 260 -1 260
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jar
+Encoding: 261 -1 261
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: char
+Encoding: 262 -1 262
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shar
+Encoding: 263 -1 263
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhar
+Encoding: 264 -1 264
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzar
+Encoding: 265 -1 265
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsar
+Encoding: 266 -1 266
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sar
+Encoding: 267 -1 267
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: i
+Encoding: 268 -1 268
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bi
+Encoding: 269 -1 269
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pi
+Encoding: 270 -1 270
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mi
+Encoding: 271 -1 271
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fi
+Encoding: 272 -1 272
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: di
+Encoding: 273 -1 273
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ti
+Encoding: 274 -1 274
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ni
+Encoding: 275 -1 275
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: li
+Encoding: 276 -1 276
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gi
+Encoding: 277 -1 277
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ki
+Encoding: 278 -1 278
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hi
+Encoding: 279 -1 279
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ji
+Encoding: 280 -1 280
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chi
+Encoding: 281 -1 281
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shi
+Encoding: 282 -1 282
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzi
+Encoding: 283 -1 283
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsi
+Encoding: 284 -1 284
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: si
+Encoding: 285 -1 285
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ya
+Encoding: 286 -1 286
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bya
+Encoding: 287 -1 287
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pya
+Encoding: 288 -1 288
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mya
+Encoding: 289 -1 289
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fya
+Encoding: 290 -1 290
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dya
+Encoding: 291 -1 291
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tya
+Encoding: 292 -1 292
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nya
+Encoding: 293 -1 293
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lya
+Encoding: 294 -1 294
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gya
+Encoding: 295 -1 295
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kya
+Encoding: 296 -1 296
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hya
+Encoding: 297 -1 297
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jya
+Encoding: 298 -1 298
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chya
+Encoding: 299 -1 299
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shya
+Encoding: 300 -1 300
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzya
+Encoding: 301 -1 301
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsya
+Encoding: 302 -1 302
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sya
+Encoding: 303 -1 303
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yo
+Encoding: 304 -1 304
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byo
+Encoding: 305 -1 305
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyo
+Encoding: 306 -1 306
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myo
+Encoding: 307 -1 307
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyo
+Encoding: 308 -1 308
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyo
+Encoding: 309 -1 309
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyo
+Encoding: 310 -1 310
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyo
+Encoding: 311 -1 311
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyo
+Encoding: 312 -1 312
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyo
+Encoding: 313 -1 313
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyo
+Encoding: 314 -1 314
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyo
+Encoding: 315 -1 315
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyo
+Encoding: 316 -1 316
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyo
+Encoding: 317 -1 317
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyo
+Encoding: 318 -1 318
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyo
+Encoding: 319 -1 319
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyo
+Encoding: 320 -1 320
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syo
+Encoding: 321 -1 321
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yeo
+Encoding: 322 -1 322
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byeo
+Encoding: 323 -1 323
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyeo
+Encoding: 324 -1 324
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myeo
+Encoding: 325 -1 325
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyeo
+Encoding: 326 -1 326
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyeo
+Encoding: 327 -1 327
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyeo
+Encoding: 328 -1 328
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyeo
+Encoding: 329 -1 329
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyeo
+Encoding: 330 -1 330
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyeo
+Encoding: 331 -1 331
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyeo
+Encoding: 332 -1 332
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyeo
+Encoding: 333 -1 333
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyeo
+Encoding: 334 -1 334
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyeo
+Encoding: 335 -1 335
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyeo
+Encoding: 336 -1 336
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyeo
+Encoding: 337 -1 337
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyeo
+Encoding: 338 -1 338
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syeo
+Encoding: 339 -1 339
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ye
+Encoding: 340 -1 340
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bye
+Encoding: 341 -1 341
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pye
+Encoding: 342 -1 342
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mye
+Encoding: 343 -1 343
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fye
+Encoding: 344 -1 344
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dye
+Encoding: 345 -1 345
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tye
+Encoding: 346 -1 346
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nye
+Encoding: 347 -1 347
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lye
+Encoding: 348 -1 348
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gye
+Encoding: 349 -1 349
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kye
+Encoding: 350 -1 350
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hye
+Encoding: 351 -1 351
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jye
+Encoding: 352 -1 352
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chye
+Encoding: 353 -1 353
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shye
+Encoding: 354 -1 354
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzye
+Encoding: 355 -1 355
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsye
+Encoding: 356 -1 356
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sye
+Encoding: 357 -1 357
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yai
+Encoding: 358 -1 358
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byai
+Encoding: 359 -1 359
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyai
+Encoding: 360 -1 360
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myai
+Encoding: 361 -1 361
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyai
+Encoding: 362 -1 362
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyai
+Encoding: 363 -1 363
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyai
+Encoding: 364 -1 364
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyai
+Encoding: 365 -1 365
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyai
+Encoding: 366 -1 366
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyai
+Encoding: 367 -1 367
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyai
+Encoding: 368 -1 368
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyai
+Encoding: 369 -1 369
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyai
+Encoding: 370 -1 370
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyai
+Encoding: 371 -1 371
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyai
+Encoding: 372 -1 372
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyai
+Encoding: 373 -1 373
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyai
+Encoding: 374 -1 374
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syai
+Encoding: 375 -1 375
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yei
+Encoding: 376 -1 376
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byei
+Encoding: 377 -1 377
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyei
+Encoding: 378 -1 378
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myei
+Encoding: 379 -1 379
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyei
+Encoding: 380 -1 380
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyei
+Encoding: 381 -1 381
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyei
+Encoding: 382 -1 382
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyei
+Encoding: 383 -1 383
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyei
+Encoding: 384 -1 384
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyei
+Encoding: 385 -1 385
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyei
+Encoding: 386 -1 386
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyei
+Encoding: 387 -1 387
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyei
+Encoding: 388 -1 388
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyei
+Encoding: 389 -1 389
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyei
+Encoding: 390 -1 390
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyei
+Encoding: 391 -1 391
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyei
+Encoding: 392 -1 392
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syei
+Encoding: 393 -1 393
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yau
+Encoding: 394 -1 394
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byau
+Encoding: 395 -1 395
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyau
+Encoding: 396 -1 396
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myau
+Encoding: 397 -1 397
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyau
+Encoding: 398 -1 398
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyau
+Encoding: 399 -1 399
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyau
+Encoding: 400 -1 400
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyau
+Encoding: 401 -1 401
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyau
+Encoding: 402 -1 402
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyau
+Encoding: 403 -1 403
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyau
+Encoding: 404 -1 404
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyau
+Encoding: 405 -1 405
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyau
+Encoding: 406 -1 406
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyau
+Encoding: 407 -1 407
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyau
+Encoding: 408 -1 408
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyau
+Encoding: 409 -1 409
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyau
+Encoding: 410 -1 410
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syau
+Encoding: 411 -1 411
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: you
+Encoding: 412 -1 412
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byou
+Encoding: 413 -1 413
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyou
+Encoding: 414 -1 414
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myou
+Encoding: 415 -1 415
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyou
+Encoding: 416 -1 416
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyou
+Encoding: 417 -1 417
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyou
+Encoding: 418 -1 418
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyou
+Encoding: 419 -1 419
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyou
+Encoding: 420 -1 420
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyou
+Encoding: 421 -1 421
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyou
+Encoding: 422 -1 422
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyou
+Encoding: 423 -1 423
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyou
+Encoding: 424 -1 424
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyou
+Encoding: 425 -1 425
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyou
+Encoding: 426 -1 426
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyou
+Encoding: 427 -1 427
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyou
+Encoding: 428 -1 428
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syou
+Encoding: 429 -1 429
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yan
+Encoding: 430 -1 430
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byan
+Encoding: 431 -1 431
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyan
+Encoding: 432 -1 432
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myan
+Encoding: 433 -1 433
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyan
+Encoding: 434 -1 434
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyan
+Encoding: 435 -1 435
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyan
+Encoding: 436 -1 436
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyan
+Encoding: 437 -1 437
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyan
+Encoding: 438 -1 438
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyan
+Encoding: 439 -1 439
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyan
+Encoding: 440 -1 440
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyan
+Encoding: 441 -1 441
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyan
+Encoding: 442 -1 442
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyan
+Encoding: 443 -1 443
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyan
+Encoding: 444 -1 444
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyan
+Encoding: 445 -1 445
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyan
+Encoding: 446 -1 446
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syan
+Encoding: 447 -1 447
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: in
+Encoding: 448 -1 448
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bin
+Encoding: 449 -1 449
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pin
+Encoding: 450 -1 450
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: min
+Encoding: 451 -1 451
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fin
+Encoding: 452 -1 452
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: din
+Encoding: 453 -1 453
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tin
+Encoding: 454 -1 454
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nin
+Encoding: 455 -1 455
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lin
+Encoding: 456 -1 456
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gin
+Encoding: 457 -1 457
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kin
+Encoding: 458 -1 458
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hin
+Encoding: 459 -1 459
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jin
+Encoding: 460 -1 460
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chin
+Encoding: 461 -1 461
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shin
+Encoding: 462 -1 462
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzin
+Encoding: 463 -1 463
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsin
+Encoding: 464 -1 464
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sin
+Encoding: 465 -1 465
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yang
+Encoding: 466 -1 466
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byang
+Encoding: 467 -1 467
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyang
+Encoding: 468 -1 468
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myang
+Encoding: 469 -1 469
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyang
+Encoding: 470 -1 470
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyang
+Encoding: 471 -1 471
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyang
+Encoding: 472 -1 472
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyang
+Encoding: 473 -1 473
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyang
+Encoding: 474 -1 474
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyang
+Encoding: 475 -1 475
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyang
+Encoding: 476 -1 476
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyang
+Encoding: 477 -1 477
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyang
+Encoding: 478 -1 478
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyang
+Encoding: 479 -1 479
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyang
+Encoding: 480 -1 480
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyang
+Encoding: 481 -1 481
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyang
+Encoding: 482 -1 482
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syang
+Encoding: 483 -1 483
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ing
+Encoding: 484 -1 484
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bing
+Encoding: 485 -1 485
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ping
+Encoding: 486 -1 486
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ming
+Encoding: 487 -1 487
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fing
+Encoding: 488 -1 488
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ding
+Encoding: 489 -1 489
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ting
+Encoding: 490 -1 490
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ning
+Encoding: 491 -1 491
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ling
+Encoding: 492 -1 492
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ging
+Encoding: 493 -1 493
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: king
+Encoding: 494 -1 494
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hing
+Encoding: 495 -1 495
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jing
+Encoding: 496 -1 496
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ching
+Encoding: 497 -1 497
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shing
+Encoding: 498 -1 498
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzing
+Encoding: 499 -1 499
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsing
+Encoding: 500 -1 500
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sing
+Encoding: 501 -1 501
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ir
+Encoding: 502 -1 502
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bir
+Encoding: 503 -1 503
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pir
+Encoding: 504 -1 504
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mir
+Encoding: 505 -1 505
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fir
+Encoding: 506 -1 506
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dir
+Encoding: 507 -1 507
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tir
+Encoding: 508 -1 508
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nir
+Encoding: 509 -1 509
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lir
+Encoding: 510 -1 510
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gir
+Encoding: 511 -1 511
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kir
+Encoding: 512 -1 512
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hir
+Encoding: 513 -1 513
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jir
+Encoding: 514 -1 514
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chir
+Encoding: 515 -1 515
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shir
+Encoding: 516 -1 516
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzir
+Encoding: 517 -1 517
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsir
+Encoding: 518 -1 518
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sir
+Encoding: 519 -1 519
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yu
+Encoding: 520 -1 520
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byu
+Encoding: 521 -1 521
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyu
+Encoding: 522 -1 522
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myu
+Encoding: 523 -1 523
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyu
+Encoding: 524 -1 524
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyu
+Encoding: 525 -1 525
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyu
+Encoding: 526 -1 526
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyu
+Encoding: 527 -1 527
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyu
+Encoding: 528 -1 528
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyu
+Encoding: 529 -1 529
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyu
+Encoding: 530 -1 530
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyu
+Encoding: 531 -1 531
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyu
+Encoding: 532 -1 532
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyu
+Encoding: 533 -1 533
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyu
+Encoding: 534 -1 534
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyu
+Encoding: 535 -1 535
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyu
+Encoding: 536 -1 536
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syu
+Encoding: 537 -1 537
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: u
+Encoding: 538 -1 538
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bu
+Encoding: 539 -1 539
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pu
+Encoding: 540 -1 540
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mu
+Encoding: 541 -1 541
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fu
+Encoding: 542 -1 542
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: du
+Encoding: 543 -1 543
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tu
+Encoding: 544 -1 544
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nu
+Encoding: 545 -1 545
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lu
+Encoding: 546 -1 546
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gu
+Encoding: 547 -1 547
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ku
+Encoding: 548 -1 548
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hu
+Encoding: 549 -1 549
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ju
+Encoding: 550 -1 550
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chu
+Encoding: 551 -1 551
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shu
+Encoding: 552 -1 552
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhu
+Encoding: 553 -1 553
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzu
+Encoding: 554 -1 554
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsu
+Encoding: 555 -1 555
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: su
+Encoding: 556 -1 556
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: wa
+Encoding: 557 -1 557
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bwa
+Encoding: 558 -1 558
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pwa
+Encoding: 559 -1 559
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mwa
+Encoding: 560 -1 560
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fwa
+Encoding: 561 -1 561
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dwa
+Encoding: 562 -1 562
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: twa
+Encoding: 563 -1 563
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nwa
+Encoding: 564 -1 564
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lwa
+Encoding: 565 -1 565
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gwa
+Encoding: 566 -1 566
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kwa
+Encoding: 567 -1 567
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hwa
+Encoding: 568 -1 568
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jwa
+Encoding: 569 -1 569
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chwa
+Encoding: 570 -1 570
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shwa
+Encoding: 571 -1 571
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhwa
+Encoding: 572 -1 572
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzwa
+Encoding: 573 -1 573
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tswa
+Encoding: 574 -1 574
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: swa
+Encoding: 575 -1 575
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: wo
+Encoding: 576 -1 576
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bwo
+Encoding: 577 -1 577
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pwo
+Encoding: 578 -1 578
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mwo
+Encoding: 579 -1 579
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fwo
+Encoding: 580 -1 580
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dwo
+Encoding: 581 -1 581
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: two
+Encoding: 582 -1 582
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nwo
+Encoding: 583 -1 583
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lwo
+Encoding: 584 -1 584
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gwo
+Encoding: 585 -1 585
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kwo
+Encoding: 586 -1 586
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hwo
+Encoding: 587 -1 587
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jwo
+Encoding: 588 -1 588
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chwo
+Encoding: 589 -1 589
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shwo
+Encoding: 590 -1 590
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhwo
+Encoding: 591 -1 591
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzwo
+Encoding: 592 -1 592
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tswo
+Encoding: 593 -1 593
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: swo
+Encoding: 594 -1 594
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: weo
+Encoding: 595 -1 595
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bweo
+Encoding: 596 -1 596
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pweo
+Encoding: 597 -1 597
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mweo
+Encoding: 598 -1 598
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fweo
+Encoding: 599 -1 599
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dweo
+Encoding: 600 -1 600
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tweo
+Encoding: 601 -1 601
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nweo
+Encoding: 602 -1 602
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lweo
+Encoding: 603 -1 603
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gweo
+Encoding: 604 -1 604
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kweo
+Encoding: 605 -1 605
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hweo
+Encoding: 606 -1 606
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jweo
+Encoding: 607 -1 607
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chweo
+Encoding: 608 -1 608
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shweo
+Encoding: 609 -1 609
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhweo
+Encoding: 610 -1 610
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzweo
+Encoding: 611 -1 611
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsweo
+Encoding: 612 -1 612
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sweo
+Encoding: 613 -1 613
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: we
+Encoding: 614 -1 614
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bwe
+Encoding: 615 -1 615
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pwe
+Encoding: 616 -1 616
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mwe
+Encoding: 617 -1 617
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fwe
+Encoding: 618 -1 618
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dwe
+Encoding: 619 -1 619
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: twe
+Encoding: 620 -1 620
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nwe
+Encoding: 621 -1 621
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lwe
+Encoding: 622 -1 622
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gwe
+Encoding: 623 -1 623
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kwe
+Encoding: 624 -1 624
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hwe
+Encoding: 625 -1 625
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jwe
+Encoding: 626 -1 626
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chwe
+Encoding: 627 -1 627
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shwe
+Encoding: 628 -1 628
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhwe
+Encoding: 629 -1 629
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzwe
+Encoding: 630 -1 630
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tswe
+Encoding: 631 -1 631
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: swe
+Encoding: 632 -1 632
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: wai
+Encoding: 633 -1 633
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bwai
+Encoding: 634 -1 634
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pwai
+Encoding: 635 -1 635
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mwai
+Encoding: 636 -1 636
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fwai
+Encoding: 637 -1 637
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dwai
+Encoding: 638 -1 638
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: twai
+Encoding: 639 -1 639
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nwai
+Encoding: 640 -1 640
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lwai
+Encoding: 641 -1 641
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gwai
+Encoding: 642 -1 642
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kwai
+Encoding: 643 -1 643
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hwai
+Encoding: 644 -1 644
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jwai
+Encoding: 645 -1 645
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chwai
+Encoding: 646 -1 646
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shwai
+Encoding: 647 -1 647
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhwai
+Encoding: 648 -1 648
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzwai
+Encoding: 649 -1 649
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tswai
+Encoding: 650 -1 650
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: swai
+Encoding: 651 -1 651
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: wei
+Encoding: 652 -1 652
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bwei
+Encoding: 653 -1 653
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pwei
+Encoding: 654 -1 654
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mwei
+Encoding: 655 -1 655
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fwei
+Encoding: 656 -1 656
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dwei
+Encoding: 657 -1 657
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: twei
+Encoding: 658 -1 658
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nwei
+Encoding: 659 -1 659
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lwei
+Encoding: 660 -1 660
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gwei
+Encoding: 661 -1 661
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kwei
+Encoding: 662 -1 662
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hwei
+Encoding: 663 -1 663
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jwei
+Encoding: 664 -1 664
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chwei
+Encoding: 665 -1 665
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shwei
+Encoding: 666 -1 666
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhwei
+Encoding: 667 -1 667
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzwei
+Encoding: 668 -1 668
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tswei
+Encoding: 669 -1 669
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: swei
+Encoding: 670 -1 670
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: wau
+Encoding: 671 -1 671
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bwau
+Encoding: 672 -1 672
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pwau
+Encoding: 673 -1 673
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mwau
+Encoding: 674 -1 674
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fwau
+Encoding: 675 -1 675
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dwau
+Encoding: 676 -1 676
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: twau
+Encoding: 677 -1 677
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nwau
+Encoding: 678 -1 678
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lwau
+Encoding: 679 -1 679
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gwau
+Encoding: 680 -1 680
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kwau
+Encoding: 681 -1 681
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hwau
+Encoding: 682 -1 682
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jwau
+Encoding: 683 -1 683
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chwau
+Encoding: 684 -1 684
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shwau
+Encoding: 685 -1 685
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhwau
+Encoding: 686 -1 686
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzwau
+Encoding: 687 -1 687
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tswau
+Encoding: 688 -1 688
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: swau
+Encoding: 689 -1 689
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: wou
+Encoding: 690 -1 690
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bwou
+Encoding: 691 -1 691
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pwou
+Encoding: 692 -1 692
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mwou
+Encoding: 693 -1 693
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fwou
+Encoding: 694 -1 694
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dwou
+Encoding: 695 -1 695
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: twou
+Encoding: 696 -1 696
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nwou
+Encoding: 697 -1 697
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lwou
+Encoding: 698 -1 698
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gwou
+Encoding: 699 -1 699
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kwou
+Encoding: 700 -1 700
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hwou
+Encoding: 701 -1 701
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jwou
+Encoding: 702 -1 702
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chwou
+Encoding: 703 -1 703
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shwou
+Encoding: 704 -1 704
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhwou
+Encoding: 705 -1 705
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzwou
+Encoding: 706 -1 706
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tswou
+Encoding: 707 -1 707
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: swou
+Encoding: 708 -1 708
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: wan
+Encoding: 709 -1 709
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bwan
+Encoding: 710 -1 710
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pwan
+Encoding: 711 -1 711
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mwan
+Encoding: 712 -1 712
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fwan
+Encoding: 713 -1 713
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dwan
+Encoding: 714 -1 714
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: twan
+Encoding: 715 -1 715
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nwan
+Encoding: 716 -1 716
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lwan
+Encoding: 717 -1 717
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gwan
+Encoding: 718 -1 718
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kwan
+Encoding: 719 -1 719
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hwan
+Encoding: 720 -1 720
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jwan
+Encoding: 721 -1 721
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chwan
+Encoding: 722 -1 722
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shwan
+Encoding: 723 -1 723
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhwan
+Encoding: 724 -1 724
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzwan
+Encoding: 725 -1 725
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tswan
+Encoding: 726 -1 726
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: swan
+Encoding: 727 -1 727
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: weon
+Encoding: 728 -1 728
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bweon
+Encoding: 729 -1 729
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pweon
+Encoding: 730 -1 730
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mweon
+Encoding: 731 -1 731
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fweon
+Encoding: 732 -1 732
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dweon
+Encoding: 733 -1 733
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tweon
+Encoding: 734 -1 734
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nweon
+Encoding: 735 -1 735
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lweon
+Encoding: 736 -1 736
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gweon
+Encoding: 737 -1 737
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kweon
+Encoding: 738 -1 738
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hweon
+Encoding: 739 -1 739
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jweon
+Encoding: 740 -1 740
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chweon
+Encoding: 741 -1 741
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shweon
+Encoding: 742 -1 742
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhweon
+Encoding: 743 -1 743
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzweon
+Encoding: 744 -1 744
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsweon
+Encoding: 745 -1 745
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sweon
+Encoding: 746 -1 746
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: wang
+Encoding: 747 -1 747
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bwang
+Encoding: 748 -1 748
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pwang
+Encoding: 749 -1 749
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mwang
+Encoding: 750 -1 750
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fwang
+Encoding: 751 -1 751
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dwang
+Encoding: 752 -1 752
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: twang
+Encoding: 753 -1 753
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nwang
+Encoding: 754 -1 754
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lwang
+Encoding: 755 -1 755
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gwang
+Encoding: 756 -1 756
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kwang
+Encoding: 757 -1 757
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hwang
+Encoding: 758 -1 758
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jwang
+Encoding: 759 -1 759
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chwang
+Encoding: 760 -1 760
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shwang
+Encoding: 761 -1 761
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhwang
+Encoding: 762 -1 762
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzwang
+Encoding: 763 -1 763
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tswang
+Encoding: 764 -1 764
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: swang
+Encoding: 765 -1 765
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: wong
+Encoding: 766 -1 766
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bong
+Encoding: 767 -1 767
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pong
+Encoding: 768 -1 768
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mong
+Encoding: 769 -1 769
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fong
+Encoding: 770 -1 770
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dong
+Encoding: 771 -1 771
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tong
+Encoding: 772 -1 772
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nong
+Encoding: 773 -1 773
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: long
+Encoding: 774 -1 774
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gong
+Encoding: 775 -1 775
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kong
+Encoding: 776 -1 776
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hong
+Encoding: 777 -1 777
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jong
+Encoding: 778 -1 778
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chong
+Encoding: 779 -1 779
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shong
+Encoding: 780 -1 780
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhong
+Encoding: 781 -1 781
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzong
+Encoding: 782 -1 782
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsong
+Encoding: 783 -1 783
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: song
+Encoding: 784 -1 784
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ur
+Encoding: 785 -1 785
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bur
+Encoding: 786 -1 786
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pur
+Encoding: 787 -1 787
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mur
+Encoding: 788 -1 788
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fur
+Encoding: 789 -1 789
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dur
+Encoding: 790 -1 790
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tur
+Encoding: 791 -1 791
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nur
+Encoding: 792 -1 792
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lur
+Encoding: 793 -1 793
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gur
+Encoding: 794 -1 794
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kur
+Encoding: 795 -1 795
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hur
+Encoding: 796 -1 796
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jur
+Encoding: 797 -1 797
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chur
+Encoding: 798 -1 798
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shur
+Encoding: 799 -1 799
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhur
+Encoding: 800 -1 800
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzur
+Encoding: 801 -1 801
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsur
+Encoding: 802 -1 802
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sur
+Encoding: 803 -1 803
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: wi
+Encoding: 804 -1 804
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bwi
+Encoding: 805 -1 805
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pwi
+Encoding: 806 -1 806
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mwi
+Encoding: 807 -1 807
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fwi
+Encoding: 808 -1 808
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dwi
+Encoding: 809 -1 809
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: twi
+Encoding: 810 -1 810
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nwi
+Encoding: 811 -1 811
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lwi
+Encoding: 812 -1 812
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gwi
+Encoding: 813 -1 813
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kwi
+Encoding: 814 -1 814
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hwi
+Encoding: 815 -1 815
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jwi
+Encoding: 816 -1 816
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chwi
+Encoding: 817 -1 817
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shwi
+Encoding: 818 -1 818
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: zhwi
+Encoding: 819 -1 819
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzwi
+Encoding: 820 -1 820
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tswi
+Encoding: 821 -1 821
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: swi
+Encoding: 822 -1 822
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: ui
+Encoding: 823 -1 823
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: bui
+Encoding: 824 -1 824
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pui
+Encoding: 825 -1 825
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: mui
+Encoding: 826 -1 826
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fui
+Encoding: 827 -1 827
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dui
+Encoding: 828 -1 828
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tui
+Encoding: 829 -1 829
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nui
+Encoding: 830 -1 830
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lui
+Encoding: 831 -1 831
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gui
+Encoding: 832 -1 832
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kui
+Encoding: 833 -1 833
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hui
+Encoding: 834 -1 834
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jui
+Encoding: 835 -1 835
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chui
+Encoding: 836 -1 836
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shui
+Encoding: 837 -1 837
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzui
+Encoding: 838 -1 838
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsui
+Encoding: 839 -1 839
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: sui
+Encoding: 840 -1 840
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yua
+Encoding: 841 -1 841
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byua
+Encoding: 842 -1 842
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyua
+Encoding: 843 -1 843
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myua
+Encoding: 844 -1 844
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyua
+Encoding: 845 -1 845
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyua
+Encoding: 846 -1 846
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyua
+Encoding: 847 -1 847
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyua
+Encoding: 848 -1 848
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyua
+Encoding: 849 -1 849
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyua
+Encoding: 850 -1 850
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyua
+Encoding: 851 -1 851
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyua
+Encoding: 852 -1 852
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyua
+Encoding: 853 -1 853
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyua
+Encoding: 854 -1 854
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyua
+Encoding: 855 -1 855
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyua
+Encoding: 856 -1 856
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyua
+Encoding: 857 -1 857
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syua
+Encoding: 858 -1 858
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yuo
+Encoding: 859 -1 859
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byuo
+Encoding: 860 -1 860
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyuo
+Encoding: 861 -1 861
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myuo
+Encoding: 862 -1 862
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyuo
+Encoding: 863 -1 863
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyuo
+Encoding: 864 -1 864
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyuo
+Encoding: 865 -1 865
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyuo
+Encoding: 866 -1 866
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyuo
+Encoding: 867 -1 867
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyuo
+Encoding: 868 -1 868
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyuo
+Encoding: 869 -1 869
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyuo
+Encoding: 870 -1 870
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyuo
+Encoding: 871 -1 871
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyuo
+Encoding: 872 -1 872
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyuo
+Encoding: 873 -1 873
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyuo
+Encoding: 874 -1 874
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyuo
+Encoding: 875 -1 875
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syuo
+Encoding: 876 -1 876
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yueo
+Encoding: 877 -1 877
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byueo
+Encoding: 878 -1 878
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyueo
+Encoding: 879 -1 879
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myueo
+Encoding: 880 -1 880
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyueo
+Encoding: 881 -1 881
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyueo
+Encoding: 882 -1 882
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyueo
+Encoding: 883 -1 883
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyueo
+Encoding: 884 -1 884
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyueo
+Encoding: 885 -1 885
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyueo
+Encoding: 886 -1 886
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyueo
+Encoding: 887 -1 887
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyueo
+Encoding: 888 -1 888
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyueo
+Encoding: 889 -1 889
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyueo
+Encoding: 890 -1 890
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyueo
+Encoding: 891 -1 891
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyueo
+Encoding: 892 -1 892
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyueo
+Encoding: 893 -1 893
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syueo
+Encoding: 894 -1 894
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yue
+Encoding: 895 -1 895
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byue
+Encoding: 896 -1 896
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyue
+Encoding: 897 -1 897
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myue
+Encoding: 898 -1 898
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyue
+Encoding: 899 -1 899
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyue
+Encoding: 900 -1 900
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyue
+Encoding: 901 -1 901
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyue
+Encoding: 902 -1 902
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyue
+Encoding: 903 -1 903
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyue
+Encoding: 904 -1 904
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyue
+Encoding: 905 -1 905
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyue
+Encoding: 906 -1 906
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyue
+Encoding: 907 -1 907
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyue
+Encoding: 908 -1 908
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyue
+Encoding: 909 -1 909
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyue
+Encoding: 910 -1 910
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyue
+Encoding: 911 -1 911
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syue
+Encoding: 912 -1 912
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yuai
+Encoding: 913 -1 913
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byuai
+Encoding: 914 -1 914
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyuai
+Encoding: 915 -1 915
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myuai
+Encoding: 916 -1 916
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyuai
+Encoding: 917 -1 917
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyuai
+Encoding: 918 -1 918
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyuai
+Encoding: 919 -1 919
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyuai
+Encoding: 920 -1 920
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyuai
+Encoding: 921 -1 921
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyuai
+Encoding: 922 -1 922
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyuai
+Encoding: 923 -1 923
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyuai
+Encoding: 924 -1 924
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyuai
+Encoding: 925 -1 925
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyuai
+Encoding: 926 -1 926
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyuai
+Encoding: 927 -1 927
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyuai
+Encoding: 928 -1 928
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyuai
+Encoding: 929 -1 929
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syuai
+Encoding: 930 -1 930
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yuei
+Encoding: 931 -1 931
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byuei
+Encoding: 932 -1 932
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyuei
+Encoding: 933 -1 933
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myuei
+Encoding: 934 -1 934
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyuei
+Encoding: 935 -1 935
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyuei
+Encoding: 936 -1 936
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyuei
+Encoding: 937 -1 937
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyuei
+Encoding: 938 -1 938
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyuei
+Encoding: 939 -1 939
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyuei
+Encoding: 940 -1 940
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyuei
+Encoding: 941 -1 941
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyuei
+Encoding: 942 -1 942
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyuei
+Encoding: 943 -1 943
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyuei
+Encoding: 944 -1 944
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyuei
+Encoding: 945 -1 945
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyuei
+Encoding: 946 -1 946
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyuei
+Encoding: 947 -1 947
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syuei
+Encoding: 948 -1 948
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yuau
+Encoding: 949 -1 949
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byuau
+Encoding: 950 -1 950
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyuau
+Encoding: 951 -1 951
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myuau
+Encoding: 952 -1 952
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyuau
+Encoding: 953 -1 953
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyuau
+Encoding: 954 -1 954
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyuau
+Encoding: 955 -1 955
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyuau
+Encoding: 956 -1 956
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyuau
+Encoding: 957 -1 957
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyuau
+Encoding: 958 -1 958
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyuau
+Encoding: 959 -1 959
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyuau
+Encoding: 960 -1 960
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyuau
+Encoding: 961 -1 961
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyuau
+Encoding: 962 -1 962
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyuau
+Encoding: 963 -1 963
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyuau
+Encoding: 964 -1 964
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyuau
+Encoding: 965 -1 965
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syuau
+Encoding: 966 -1 966
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yuou
+Encoding: 967 -1 967
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byuou
+Encoding: 968 -1 968
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyuou
+Encoding: 969 -1 969
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myuou
+Encoding: 970 -1 970
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyuou
+Encoding: 971 -1 971
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyuou
+Encoding: 972 -1 972
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyuou
+Encoding: 973 -1 973
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyuou
+Encoding: 974 -1 974
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyuou
+Encoding: 975 -1 975
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyuou
+Encoding: 976 -1 976
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyuou
+Encoding: 977 -1 977
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyuou
+Encoding: 978 -1 978
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyuou
+Encoding: 979 -1 979
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyuou
+Encoding: 980 -1 980
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyuou
+Encoding: 981 -1 981
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyuou
+Encoding: 982 -1 982
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyuou
+Encoding: 983 -1 983
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syuou
+Encoding: 984 -1 984
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yuen
+Encoding: 985 -1 985
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byuen
+Encoding: 986 -1 986
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyuen
+Encoding: 987 -1 987
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myuen
+Encoding: 988 -1 988
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyuen
+Encoding: 989 -1 989
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyuen
+Encoding: 990 -1 990
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyuen
+Encoding: 991 -1 991
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyuen
+Encoding: 992 -1 992
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyuen
+Encoding: 993 -1 993
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyuen
+Encoding: 994 -1 994
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyuen
+Encoding: 995 -1 995
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyuen
+Encoding: 996 -1 996
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyuen
+Encoding: 997 -1 997
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyuen
+Encoding: 998 -1 998
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyuen
+Encoding: 999 -1 999
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyuen
+Encoding: 1000 -1 1000
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyuen
+Encoding: 1001 -1 1001
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syuen
+Encoding: 1002 -1 1002
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: uin
+Encoding: 1003 -1 1003
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: buin
+Encoding: 1004 -1 1004
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: puin
+Encoding: 1005 -1 1005
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: muin
+Encoding: 1006 -1 1006
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fuin
+Encoding: 1007 -1 1007
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: duin
+Encoding: 1008 -1 1008
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tuin
+Encoding: 1009 -1 1009
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nuin
+Encoding: 1010 -1 1010
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: luin
+Encoding: 1011 -1 1011
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: guin
+Encoding: 1012 -1 1012
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kuin
+Encoding: 1013 -1 1013
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: huin
+Encoding: 1014 -1 1014
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: juin
+Encoding: 1015 -1 1015
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chuin
+Encoding: 1016 -1 1016
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shuin
+Encoding: 1017 -1 1017
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzuin
+Encoding: 1018 -1 1018
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsuin
+Encoding: 1019 -1 1019
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: suin
+Encoding: 1020 -1 1020
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yuang
+Encoding: 1021 -1 1021
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byuang
+Encoding: 1022 -1 1022
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyuang
+Encoding: 1023 -1 1023
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myuang
+Encoding: 1024 -1 1024
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyuang
+Encoding: 1025 -1 1025
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyuang
+Encoding: 1026 -1 1026
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyuang
+Encoding: 1027 -1 1027
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyuang
+Encoding: 1028 -1 1028
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyuang
+Encoding: 1029 -1 1029
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyuang
+Encoding: 1030 -1 1030
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyuang
+Encoding: 1031 -1 1031
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyuang
+Encoding: 1032 -1 1032
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyuang
+Encoding: 1033 -1 1033
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyuang
+Encoding: 1034 -1 1034
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyuang
+Encoding: 1035 -1 1035
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyuang
+Encoding: 1036 -1 1036
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyuang
+Encoding: 1037 -1 1037
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syuang
+Encoding: 1038 -1 1038
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: yong
+Encoding: 1039 -1 1039
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: byong
+Encoding: 1040 -1 1040
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: pyong
+Encoding: 1041 -1 1041
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: myong
+Encoding: 1042 -1 1042
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fyong
+Encoding: 1043 -1 1043
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dyong
+Encoding: 1044 -1 1044
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tyong
+Encoding: 1045 -1 1045
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nyong
+Encoding: 1046 -1 1046
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: lyong
+Encoding: 1047 -1 1047
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: gyong
+Encoding: 1048 -1 1048
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kyong
+Encoding: 1049 -1 1049
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: hyong
+Encoding: 1050 -1 1050
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: jyong
+Encoding: 1051 -1 1051
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chyong
+Encoding: 1052 -1 1052
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shyong
+Encoding: 1053 -1 1053
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzyong
+Encoding: 1054 -1 1054
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsyong
+Encoding: 1055 -1 1055
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: syong
+Encoding: 1056 -1 1056
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: uir
+Encoding: 1057 -1 1057
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: buir
+Encoding: 1058 -1 1058
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: puir
+Encoding: 1059 -1 1059
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: muir
+Encoding: 1060 -1 1060
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: fuir
+Encoding: 1061 -1 1061
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: duir
+Encoding: 1062 -1 1062
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tuir
+Encoding: 1063 -1 1063
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: nuir
+Encoding: 1064 -1 1064
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: luir
+Encoding: 1065 -1 1065
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: guir
+Encoding: 1066 -1 1066
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: kuir
+Encoding: 1067 -1 1067
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: huir
+Encoding: 1068 -1 1068
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: juir
+Encoding: 1069 -1 1069
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: chuir
+Encoding: 1070 -1 1070
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: shuir
+Encoding: 1071 -1 1071
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: dzuir
+Encoding: 1072 -1 1072
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: tsuir
+Encoding: 1073 -1 1073
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+
+StartChar: suir
+Encoding: 1074 -1 1074
+Width: 1000
+LayerCount: 2
+Comment: "."
+EndChar
+EndChars
+EndSplineFont

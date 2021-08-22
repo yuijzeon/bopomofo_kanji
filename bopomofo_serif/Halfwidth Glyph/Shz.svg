@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg4289"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="little_Shz.svg">
+  <defs
+     id="defs4291" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="76.069414"
+     inkscape:cy="735.39804"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,200"
+       orientation="0,1"
+       id="guide4889"
+       inkscape:label="Baseline"
+       inkscape:color="rgb(0,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4150" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4294">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.36222)">
+    <g
+       id="g10018"
+       transform="translate(9.1142932,0)">
+      <path
+         sodipodi:nodetypes="ccccscccccsccscscc"
+         inkscape:connector-curvature="0"
+         id="path7563"
+         d="m 382.90517,1.93168 -35.0938,16.0429 c -45.122,3.0081 -169.45863,9.0262 -212.57515,8.0235 -27.0732,0 -73.197003,-3.0092 -107.289103,-9.0254 l -8.0215,16.0429 c -2.00545,4.010875 -2.0049,9.0244 2.0059,13.0352 22.0597,26.0705 23.82582,55.1504 56.915322,73.1992 20.0542,-5.0135 58.158001,-12.0324 79.214901,-13.0351 88.78934,0 33.99393,-1.6439 121.69443,-3.1638 23.9792,-1.885 54.1489,20.871 49.0904,51.2378 l 0,135.03291 c 0,53.1437 6.0178,136.98507 16.0449,174.08537 l 77.207,0 c 29.0786,-64.1735 46.125,-130.96847 46.125,-213.19077 l 0,-102.12321 c 6.0755,-26.7285 11.9667,-55.0892 9.9708,-85.6903 -0.7915,-12.1342 -2.1132,-39.0932 -15.1683,-44.4283 -19.0515,-7.019 -48.0341,-14.0375 -80.1208,-16.0429 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:445.64938354px;line-height:125%;font-family:'Source Han Serif KR';-inkscape-font-specification:'Source Han Serif KR Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccscccscscc"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:445.64938354px;line-height:125%;font-family:'Source Han Serif KR';-inkscape-font-specification:'Source Han Serif KR Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 344.15512,323.93624 -35.0937,16.04297 -50.85147,8.02344 c -27.0732,0 -73.1969,-3.00913 -107.289,-9.02539 l -8.0215,16.04297 c -2.00541,4.01083 -2.005,9.02431 2.0058,13.03515 22.0597,26.07049 -10.51927,55.15042 22.57023,73.19922 20.0542,-5.01355 58.1579,-12.03244 79.2148,-13.03516 37.10032,-3.00813 49.33524,-8.02343 86.43554,-8.02343 24.0651,0 49.6396,4.3e-4 67.6884,2.00586 11.0298,-7.01898 25.0684,-33.08816 25.0684,-61.16407 0,-9.0244 -5.0135,-18.05046 -13.0352,-21.05859 -19.0515,-7.01898 -36.6055,-14.03755 -68.6923,-16.04297 z"
+         id="path9944"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:transform-center-y="-268.22136"
+         inkscape:transform-center-x="-99.329846"
+         inkscape:connector-curvature="0"
+         id="path9946"
+         d="m 223.9575,624.40645 c 15.36524,-106.99296 23.71964,-179.71227 16.52113,-230.91278 -18.9656,-24.81836 -20.49633,-50.62303 -125.69633,-59.65592 -24.085071,-0.82157 -35.945403,0.51171 -38.699309,17.15959 -2.292165,13.85693 19.521198,26.50855 19.273448,71.64017 -4.8223,74.32505 5.824071,158.10483 -13.08087,235.39367 -11.576306,47.32745 -23.500256,91.13226 -44.952104,145.91463 -8.676823,29.07887 -50.33064,96.00787 -27.271194,106.11326 42.382302,3.61582 92.594319,-29.34738 114.988069,-64.37153 57.68142,-73.76297 78.68891,-144.74471 98.91716,-221.28109 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:445.64938354px;line-height:125%;font-family:'Source Han Serif KR';-inkscape-font-specification:'Source Han Serif KR Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cccscscccc" />
+    </g>
+  </g>
+</svg>

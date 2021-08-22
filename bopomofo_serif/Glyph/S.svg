@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg4289"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="S.svg">
+  <defs
+     id="defs4291" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="268.33223"
+     inkscape:cy="630.81053"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,200"
+       orientation="0,1"
+       id="guide4889"
+       inkscape:label="Baseline"
+       inkscape:color="rgb(0,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4150" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4294">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.36222)">
+    <g
+       id="g10250"
+       transform="translate(-19.98495,39.441169)">
+      <path
+         sodipodi:nodetypes="sscsccsccscsccccccccs"
+         inkscape:connector-curvature="0"
+         id="path9705"
+         d="m 440.24439,-60.342902 c -9.7482,-0.01537 -15.7543,3.55517 -19.3554,13.849609 -4.7958,13.70979 14.3538,30.46005 5.8378,76.390622 -18.3691,74.859151 -43.2471,216.374491 -76.0195,291.758941 -18.9928,43.68821 -117.60838,258.76801 -157.59847,327.62472 l -28.68359,32.75251 c -5.3866,55.72815 -17.3383,102.0668 5.375,132.875 10.5795,14.35 47.25096,25.32991 77.03906,32.32031 28.8781,4.8888 43.8829,-36.53276 89.8125,-35.91796 87.0575,-2.9774 324.8071,-61.1158 357.3281,-61.1158 24.0651,0 78.211,4.6e-4 96.2598,2.00586 11.0298,-7.0189 25.0683,-33.08815 25.0683,-61.16407 0,-9.0244 -5.0134,-18.05046 -13.0351,-21.05859 -19.0515,-7.01898 -65.1769,-14.03755 -97.2637,-16.04297 l -35.0937,16.04297 c -29.6771,1.97848 -170.5314,32.39184 -287.4244,34.11942 -15.0136,0.31961 -31.7759,-16.53253 -31.0098,-29.04492 58.397,-109.48298 102.2403,-228.49667 165.4038,-365.41602 34.7331,-106.27013 75.7119,-230.296231 78.0117,-283.727681 -14.1169,-28.6404004 -30.8937,-55.198279 -132.7754,-83.029295 -8.8327,-1.913258 -16.028,-3.213434 -21.877,-3.222656 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:445.64938354px;line-height:125%;font-family:'Source Han Serif KR';-inkscape-font-specification:'Source Han Serif KR Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4765-4-9"
+         d="m 664.12069,486.95734 c 20.28916,111.078 37.50577,275.79297 66.51161,341.66068 69.2725,98.95192 150.13729,34.33042 152.89929,-69.69954 -43.259,-133.92509 -112.3332,-241.12667 -178.8203,-311.33042 -35.6795,-17.46912 -41.4092,0.63471 -40.5906,39.36928 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:445.64938354px;line-height:125%;font-family:'Source Han Serif KR';-inkscape-font-specification:'Source Han Serif KR Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
